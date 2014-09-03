@@ -5,3 +5,5 @@
 |阿里巴巴  |  合肥    |   |   |   |    | [campus.alibaba.com](http://campus.alibaba.com) | 转正面试失败   |
 |腾讯      |  合肥    |  9月18日18:00    |                | 9月20日10:00  |  9月23日~27日  | [join.qq.com/](http://join.qq.com/) |   |
 |百度      |  合肥    |                  |                |          |          | [talent.baidu.com](http://talent.baidu.com/) |   |
+|搜狗      |  合肥    |         |     | 2014-09-12 18:30/西区3A202教室 |   | [campus.sougou.com](http://campus.sogou.com/) |  |
+
